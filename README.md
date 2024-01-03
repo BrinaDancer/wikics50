@@ -1,1 +1,1 @@
-Design a Wikipedia-like online encyclopedia useing Pythong and Javascripting from Harvards CS50 
+Design a Wikipedia-like online encyclopedia using Python and Javascripting from Harvards CS50 
